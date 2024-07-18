@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Priority);
+      }
+
+      .cls-2 {
+        fill: #ff7e4e;
+      }
+    </style>
+    <clipPath id="clip-Priority">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Priority" class="cls-1">
+    <path id="Icon_metro-notification" data-name="Icon metro-notification" class="cls-2" d="M16.571,4.553a11.375,11.375,0,1,0,8.043,3.332A11.3,11.3,0,0,0,16.571,4.553Zm0-2.625a14,14,0,1,1-14,14,14,14,0,0,1,14-14Zm-1.75,19.25h3.5v3.5h-3.5Zm0-14h3.5v10.5h-3.5Z" transform="translate(10.966 11.609)"/>
+  </g>
+</svg>

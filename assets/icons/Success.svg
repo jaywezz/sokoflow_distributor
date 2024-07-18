@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Success);
+      }
+
+      .cls-2 {
+        fill: #39b54a;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Success">
+      <rect width="175" height="175"/>
+    </clipPath>
+  </defs>
+  <g id="Success" class="cls-1">
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="72.5" cy="72.5" r="72.5" transform="translate(13 14)"/>
+    <path id="Icon_awesome-check" data-name="Icon awesome-check" class="cls-3" d="M19.569,46.7.844,27.974a2.881,2.881,0,0,1,0-4.074l4.074-4.074a2.881,2.881,0,0,1,4.074,0L21.606,32.44,48.625,5.421a2.881,2.881,0,0,1,4.074,0L56.773,9.5a2.881,2.881,0,0,1,0,4.074L23.644,46.7A2.881,2.881,0,0,1,19.569,46.7Z" transform="translate(59.628 65.457)"/>
+  </g>
+</svg>

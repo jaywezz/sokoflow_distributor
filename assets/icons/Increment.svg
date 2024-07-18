@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Increment);
+      }
+
+      .cls-2 {
+        fill: #39b54a;
+      }
+    </style>
+    <clipPath id="clip-Increment">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Increment" class="cls-1">
+    <path id="Icon_awesome-arrow-circle-up" data-name="Icon awesome-arrow-circle-up" class="cls-2" d="M.563,17.828A17.266,17.266,0,1,1,17.828,35.094,17.263,17.263,0,0,1,.563,17.828Zm10,2.012,5.04-5.256V27.3a1.667,1.667,0,0,0,1.671,1.671h1.114A1.667,1.667,0,0,0,20.056,27.3V14.584L25.1,19.84a1.673,1.673,0,0,0,2.388.028l.759-.766a1.664,1.664,0,0,0,0-2.36L19.012,7.5a1.664,1.664,0,0,0-2.36,0L7.406,16.742a1.664,1.664,0,0,0,0,2.36l.759.766A1.681,1.681,0,0,0,10.56,19.84Z" transform="translate(9.672 9.672)"/>
+  </g>
+</svg>

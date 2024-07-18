@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Notification);
+      }
+
+      .cls-2 {
+        fill: #636363;
+      }
+    </style>
+    <clipPath id="clip-Notification">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Notification" class="cls-1">
+    <path id="Icon_material-notifications" data-name="Icon material-notifications" class="cls-2" d="M24.479,48.792a4.633,4.633,0,0,0,4.62-4.62H19.859A4.618,4.618,0,0,0,24.479,48.792ZM38.338,34.933V23.384c0-7.091-3.788-13.027-10.394-14.6V7.215a3.465,3.465,0,0,0-6.929,0V8.785c-6.629,1.571-10.394,7.484-10.394,14.6V34.933L6,39.552v2.31H42.957v-2.31Z" transform="translate(3.021 1.766)"/>
+  </g>
+</svg>

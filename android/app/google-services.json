@@ -1,0 +1,486 @@
+{
+  "project_info": {
+    "project_number": "102233149888",
+    "project_id": "sokoflow-5d830",
+    "storage_bucket": "sokoflow-5d830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:68efd6daf22f50241f7825",
+        "android_client_info": {
+          "package_name": "com.agnet.pipelinesales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:bf2ca1c4107fd4331f7825",
+        "android_client_info": {
+          "package_name": "com.brand.view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:2838492f5081e2c61f7825",
+        "android_client_info": {
+          "package_name": "com.deveint.sokoflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:2125f97c6b94e5c91f7825",
+        "android_client_info": {
+          "package_name": "com.deveint.sokoflow_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:797590ce147aa18d1f7825",
+        "android_client_info": {
+          "package_name": "com.example.managers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-sudt10t9enr2vo0llvahgqbrs5uf8aqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.managers_app",
+            "certificate_hash": "dd75a0b8e6a61e8dc591a2565051b52ac38285bd"
+          }
+        },
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:d6db9bc21c84e39a1f7825",
+        "android_client_info": {
+          "package_name": "com.manager.sidai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:42255fde240a75231f7825",
+        "android_client_info": {
+          "package_name": "com.sidai.sokoflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:4079d5e6c37850da1f7825",
+        "android_client_info": {
+          "package_name": "com.sokoflow.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:af7e147de6dbb1101f7825",
+        "android_client_info": {
+          "package_name": "com.sokoflow.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:ae0b490903af92801f7825",
+        "android_client_info": {
+          "package_name": "com.sokoflow.sidai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:60207c916fea02401f7825",
+        "android_client_info": {
+          "package_name": "com.sokoflow.willowcapital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:9b304c6c8c48ef641f7825",
+        "android_client_info": {
+          "package_name": "com.total.deveint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233149888:android:f47f3bacb7b9c24c1f7825",
+        "android_client_info": {
+          "package_name": "com.total.sokoflow.total_sokoflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233149888-d4ccl8bsv5i0h0bcj2pvjrnlhdur6nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZoyva4tvBBYqi6JQ6EY6b9-4LGa_ykw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233149888-1e0jv6cp15blknmcm3vv3c67l9enkqjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102233149888-0gn64vbqiol1385l5i911bcg9821g8rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sokoflow.manager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

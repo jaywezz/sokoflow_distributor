@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Profile);
+      }
+
+      .cls-2 {
+        fill: #a7a7a7;
+      }
+    </style>
+    <clipPath id="clip-Profile">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Profile" class="cls-1">
+    <path id="Icon_ionic-md-person" data-name="Icon ionic-md-person" class="cls-2" d="M21.23,21.23a8.365,8.365,0,1,0-8.365-8.365A8.389,8.389,0,0,0,21.23,21.23Zm0,4.182c-5.541,0-16.73,2.823-16.73,8.365v4.182H37.959V33.777C37.959,28.235,26.771,25.412,21.23,25.412Z" transform="translate(6.271 6.089)"/>
+  </g>
+</svg>

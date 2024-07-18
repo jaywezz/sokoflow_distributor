@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Reports);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Reports">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Reports" class="cls-1">
+    <path id="Icon_open-list-rich" data-name="Icon open-list-rich" class="cls-2" d="M0,0V14.34H14.34V0ZM19.119,0V4.78H38.239V0Zm0,9.56v4.78h14.34V9.56ZM0,19.119v14.34H14.34V19.119Zm19.119,0V23.9H38.239v-4.78Zm0,9.56v4.78h14.34v-4.78Z" transform="translate(8.38 10.589)"/>
+  </g>
+</svg>

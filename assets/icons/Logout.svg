@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Logout);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Logout">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Logout" class="cls-1">
+    <path id="Icon_open-account-logout" data-name="Icon open-account-logout" class="cls-2" d="M14.34,0V4.78H33.459v23.9H14.34v4.78h23.9V0ZM9.56,9.56,0,16.73,9.56,23.9v-4.78H28.679V14.34H9.56Z" transform="translate(8.38 10.589)"/>
+  </g>
+</svg>

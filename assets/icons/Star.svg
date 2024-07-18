@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Star);
+      }
+
+      .cls-2 {
+        fill: #39b54a;
+      }
+    </style>
+    <clipPath id="clip-Star">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Star" class="cls-1">
+    <path id="Icon_ionic-md-star-outline" data-name="Icon ionic-md-star-outline" class="cls-2" d="M34.123,15.176l-10.9-.91L18.96,4.5,14.7,14.266l-10.9.91,8.272,6.965L9.589,32.5l9.371-5.492,9.37,5.492L25.852,22.141ZM20.2,25.01l-1.241-.727-1.241.727-4.5,2.639,1.192-4.98.328-1.37-1.094-.921-3.978-3.35,5.242-.437,1.442-.12.565-1.294,2.047-4.694,2.047,4.694.564,1.294,1.442.12,5.243.437-3.978,3.35-1.094.921.328,1.37,1.192,4.98Z" transform="translate(11.21 9.037)"/>
+  </g>
+</svg>

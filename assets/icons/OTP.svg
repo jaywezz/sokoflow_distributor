@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-OTP);
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #707070;
+        opacity: 0.4;
+      }
+
+      .cls-3 {
+        fill: #fcee21;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-OTP">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="OTP" class="cls-1">
+    <g id="Group_207" data-name="Group 207" transform="translate(-64 -107)">
+      <g id="Ellipse_31" data-name="Ellipse 31" class="cls-2" transform="translate(79 124)">
+        <circle class="cls-5" cx="135" cy="135" r="135"/>
+        <circle class="cls-6" cx="135" cy="135" r="134.5"/>
+      </g>
+      <circle id="Ellipse_32" data-name="Ellipse 32" class="cls-3" cx="80.5" cy="80.5" r="80.5" transform="translate(134 179)"/>
+      <path id="Icon_awesome-unlock-alt" data-name="Icon awesome-unlock-alt" class="cls-4" d="M36.028,23.058H13.691V13.772a6.485,6.485,0,1,1,12.97-.081v1.441a2.156,2.156,0,0,0,2.162,2.162H31.7a2.156,2.156,0,0,0,2.162-2.162V13.691a13.691,13.691,0,1,0-27.381.135v9.232H4.323A4.324,4.324,0,0,0,0,27.381V41.792a4.324,4.324,0,0,0,4.323,4.323h31.7a4.324,4.324,0,0,0,4.323-4.323V27.381A4.324,4.324,0,0,0,36.028,23.058ZM23.778,36.748a3.6,3.6,0,1,1-7.206,0V32.425a3.6,3.6,0,1,1,7.206,0Z" transform="translate(193.324 236.442)"/>
+    </g>
+  </g>
+</svg>

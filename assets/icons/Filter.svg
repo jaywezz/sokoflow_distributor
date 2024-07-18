@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Filter);
+      }
+
+      .cls-2 {
+        fill: #020202;
+      }
+
+      .cls-3 {
+        fill: #f0f2f8;
+        stroke: #020202;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Filter">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Filter" class="cls-1">
+    <g id="Group_284" data-name="Group 284" transform="translate(-332 -37)">
+      <rect id="Rectangle_1256" data-name="Rectangle 1256" class="cls-2" width="27" height="3" rx="1.5" transform="translate(346 51)"/>
+      <rect id="Rectangle_1257" data-name="Rectangle 1257" class="cls-2" width="27" height="3" rx="1.5" transform="translate(346 63)"/>
+      <g id="Ellipse_38" data-name="Ellipse 38" class="cls-3" transform="translate(360 48)">
+        <circle class="cls-4" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-5" cx="4.5" cy="4.5" r="3.75"/>
+      </g>
+      <g id="Ellipse_51" data-name="Ellipse 51" class="cls-3" transform="translate(351 60)">
+        <circle class="cls-4" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-5" cx="4.5" cy="4.5" r="3.75"/>
+      </g>
+      <rect id="Rectangle_1258" data-name="Rectangle 1258" class="cls-2" width="27" height="3" rx="1.5" transform="translate(346 75)"/>
+      <g id="Ellipse_52" data-name="Ellipse 52" class="cls-3" transform="translate(360 72)">
+        <circle class="cls-4" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-5" cx="4.5" cy="4.5" r="3.75"/>
+      </g>
+    </g>
+  </g>
+</svg>
